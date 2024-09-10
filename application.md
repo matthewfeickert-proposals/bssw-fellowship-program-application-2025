@@ -28,10 +28,7 @@ X
 Specify all that apply.
 See https://bssw.io for a list of focus areas and subtopics (e.g., Focus Area: Planning; Subtopic: Requirements).
 
-* Planning
-   - Software Sustainability
-* Performance
-   - High-Performance Computing (HPC)
-   - Big Data
-* Reliability
-   - Reproducibility
+* Focus Area: Planning; Subtopic: Software Sustainability
+* Focus Area: Performance; Subtopic: High-Performance Computing (HPC)
+* Focus Area: Performance; Subtopic: Big Data
+* Focus Area: Reliability; Subtopic: Reproducibility
