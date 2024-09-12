@@ -18,7 +18,19 @@ pyhf has been used across multiple subdomains of particle physics for physics pu
 
 ### Describe your background and experience relevant to being a BSSw Fellow (1000 - 1500 characters).
 
-X
+```
+$ wc --chars wc.txt
+1942 wc.txt
+```
+
+I am involved with multiple organizations and efforts across the open source scientific software community that are aligned with the BSSW Fellowship program's goals of promoting the best practices and tools for improving productivity and software sustainability.
+I also serve as an associate editor for the Journal of Open Source Software (JOSS) (https://joss.theoj.org) in the scientific tracks of Physics and Engineering and Data Science, Artificial Intelligence, and Machine Learning.
+JOSS improves research software through peer review and also improves software scholarly credit and citation through providing a paper and software archive with DOIs.
+I also serve on the organizing committee for the international Scientific Computing with Python conference (SciPy) since 2021, where I work with my committee members to bring the broader scientific Python community together to share research across scientific domains and organize community efforts.
+In my role as a physicist in the ATLAS collaboration I also serve as the ATLAS experiment's analysis preservation contact where I both develop and teach methods of analysis and software preservation for the purposes of efficient analysis reuse under new physics models and new data.
+This work has resulted in my organizing and teaching multiple workshops for the ATLAS and US ATLAS collaborations on best practices for software development and patterns for efficient software sustainability.
+Similarly, in my leadership roles in IRIS-HEP I have both organized and taught at multiple training events for scientific analysis tooling, and also mentored more than ten IRIS-HEP Fellows to invest in the development and career paths of early career scientists with an interest in scientific software development.
+I have also lectured at the US Research Software Sustainability Institute summer school on Research Software and Open Science on packaging and distribution of scientific software.
 
 ## Proposed work and impact
 
