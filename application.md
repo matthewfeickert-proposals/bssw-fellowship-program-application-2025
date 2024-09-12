@@ -37,6 +37,11 @@ I have also lectured at the US Research Software Sustainability Institute summer
 ### What would you do as a BSSw Fellow? (1500 - 2000 characters).
 
 X
+* Workshops on packaging and distribution of scientific software, using conda-forge.
+Also using pixi for cross platform software environment reproducibility allowing for scientific applications to be shared easily.
+* Add a focus on AI/ML applications benefitting from GPU.
+* Write this all as open website training material with examples and teach the workshops using the websites.
+* Propose a tutorial at SciPy 2025.
 
 ### What technical impact do you foresee from your efforts? (1000 - 1500 characters).
 
