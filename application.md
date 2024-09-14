@@ -36,7 +36,23 @@ I have also lectured at the US Research Software Sustainability Institute summer
 
 ### What would you do as a BSSw Fellow? (1500 - 2000 characters).
 
-X
+```
+$ wc --chars wc.txt
+2223 wc.txt
+```
+
+As a BSSW Fellow I would develop an open source short course in the form of website on the practical process of packaging scientific software and making it reusable through version controlled lock files and then teaching the course as a module at multiple workshops and conference tutorial sessions.
+The course would have a focus towards packaging of scientific Python libraries and distribution on The Python Package Index (PyPI) and conda-forge, but would be scoped broadly and also include packaging and distribution of C and C++ libraries on conda-forge as well.
+While packaging scientific software libraries is critical, the reality is that many scientists need reproducible scientific computing environments around "applications" across multiple computing platforms --- e.g. scientific analyses, custom visualization tools, data transformation pipelines, and machine learning applications on hardware accelerator platforms.
+While workflow languages/engines and Linux containers offer a gold standard for scientific computing reproducibility, they require additional layers of training and software engineering knowledge.
+Modern multi-platform environment management tools, i.e. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for the full software tool chain down to the compiler level for all software available on conda-forge and PyPI while still providing a high level interface well adapted to scientists.
+The course would have a focus on using these tools to create reproducible software environments for machine learning applications including all CUDA dependencies, which is becoming a more relevant issue as AI/ML becomes a more standard part of modern science.
+In addition to the course website, I would create a workshop that would be focused on teaching this course.
+The workshop would be incubated at the University of Wisconsin-Madison Data Science Hub, and then would solicit a call for applications for workshop participants, whose travel to the workshop location would be covered by the Fellow award.
+This course would also be submitted as a proposal for a tutorial at the 2025 SciPy conference, and would be recommended as a module for URSSI workshops in 2025.
+
+---
+
 * Workshops on packaging and distribution of scientific software, using conda-forge.
 Also using pixi for cross platform software environment reproducibility allowing for scientific applications to be shared easily.
 * Add a focus on AI/ML applications benefitting from GPU.
