@@ -61,7 +61,17 @@ Also using pixi for cross platform software environment reproducibility allowing
 
 ### What technical impact do you foresee from your efforts? (1000 - 1500 characters).
 
-X
+```
+$ wc --chars wc.txt
+1298 wc.txt
+```
+
+Reproducible software environments are critical not only for reproducibility of results, but arguably more importantly for practically sharing complex scientific environments with many dependencies for scientists to work collaboratively.
+The open source website and course and workshop series together would practically teach researchers how to make their software reusable and their exact software environments easily shareable.
+It is without exaggeration that today researchers can spend hours building bespoke software environments for their work that are complex enough that they require great effort to rebuild even on their own machines.
+Providing researchers with not only a best practice workflow for lock file based software environment reproducibility but the tools to immediately implement them across multiple platforms would scale the human time savings across science significantly as researchers adopt these methods across their research groups.
+It would also increase the computational savings by avoiding running of scientific workflows with faulty or wrong environments that could alter results or fail to reproduce key findings.
+As GPU based workflows are notoriously difficult to share the exact environment specifications of, this would provide a huge reproducibility benefit.
 
 ### What broader community impact do you foresee from your efforts? (1000 - 1500 characters).
 
