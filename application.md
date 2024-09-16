@@ -75,7 +75,21 @@ As GPU based workflows are notoriously difficult to share the exact environment 
 
 ### What broader community impact do you foresee from your efforts? (1000 - 1500 characters).
 
-X
+```
+$ wc --chars wc.txt
+1147 wc.txt
+```
+
+Most scientists do not receive a formal education in software development and engineering and the associated best practices.
+However, they generally are interested to learn and apply them if they are shown that there is a positive impact on their research.
+Through the course and workshops I will be able to reach early career researchers (university and graduate studies, and junior postdocs) across multiple scientific domains, improving the maintainability of their software and reproducibility of their work.
+This impact will cascade forward in time making them more productive and the software they produce more useful.
+All the course and workshop content and the software for the website will be open source under a permissive license, making it easy for other researchers to use the course material in their own lectures and workshops.
+I will encourage sharing of the material and through having the workshops target a wide range of scientific domains I will ensure that this knowledge spreads and helps for multiple scientific communities to develop better workflows and practices around reproducible and sustainable software development.
+
+---
+
+NOTE: Revise as this is not clear what the **broader** community impact is.
 
 ### Which BSSw focus areas and subtopics apply to your proposed work? (500 characters).
 Specify all that apply.
