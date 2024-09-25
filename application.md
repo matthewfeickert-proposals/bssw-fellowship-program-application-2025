@@ -6,7 +6,7 @@
 
 ```
 $ wc --chars wc.txt
-1425 wc.txt
+1402 wc.txt
 ```
 
 My career as an experimental high energy physicist has a strong focus on building open source scientific software for the particle physics community and building scientific software ecosystems spanning domains in physics and the broader scientific open source community.
@@ -20,7 +20,7 @@ pyhf has been used across multiple subdomains of particle physics for physics pu
 
 ```
 $ wc --chars wc.txt
-1942 wc.txt
+1889 wc.txt
 ```
 
 I am involved with multiple organizations and efforts across the scientific open source software community that are aligned with the BSSW Fellowship program's goals of promoting the best practices and tools for improving productivity and software sustainability.
@@ -38,7 +38,7 @@ I have also lectured at the US Research Software Sustainability Institute summer
 
 ```
 $ wc --chars wc.txt
-2223 wc.txt
+2159 wc.txt
 ```
 
 As a BSSW Fellow I will develop an open source course in the form of website on the practical process of packaging scientific software and making it reusable through version controlled lock files and then teaching the course as a module at multiple workshops and conference tutorial sessions.
@@ -63,7 +63,7 @@ Also using pixi for cross platform software environment reproducibility allowing
 
 ```
 $ wc --chars wc.txt
-1298 wc.txt
+1297 wc.txt
 ```
 
 Reproducible software environments are critical not only for reproducibility of results, but, arguably more importantly, for practically sharing complex scientific environments with many dependencies for scientists to work collaboratively.
@@ -77,7 +77,7 @@ As GPU based workflows are notoriously difficult to share the exact environment 
 
 ```
 $ wc --chars wc.txt
-1147 wc.txt
+1245 wc.txt
 ```
 
 Most scientists do not receive a formal education in software development and engineering and the associated best practices.
