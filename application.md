@@ -6,14 +6,14 @@
 
 ```
 $ wc --chars wc.txt
-1402 wc.txt
+1401 wc.txt
 ```
 
 My career as an experimental high energy physicist has a strong focus on building open source scientific software for the particle physics community and building scientific software ecosystems spanning domains in physics and the broader scientific open source community.
 I am the Analysis Systems focus area lead for the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) where I lead work creating next generation Pythonic data analysis tools and cyberinfrastructure designed to meet the challenges of the data intensive scientific research at planned High Luminosity Large Hadron Collider (HL-LHC) at CERN.
 I additionally serve on the IRIS-HEP Executive Board where I work with the other board members to guide the institute towards success.
 As part of my work in IRIS-HEP, and as a member of the ATLAS experiment at CERN, I am a developer and maintainer of the statistical modeling and inference library pyhf (https://github.com/scikit-hep/pyhf).
-pyhf implements a family of statistical models used extensively in experimental particle physics and leverages automatic differentiation and hardware acceleration to improve inference speed while allowing for expressive modelling.
+pyhf implements a family of statistical models used extensively in experimental particle physics and leverages automatic differentiation and hardware acceleration to improve inference speed while allowing for expressive modeling.
 pyhf has been used across multiple subdomains of particle physics for physics publications, across multiple experimental collaborations, and in particle physics phenomenology and theory.
 
 ### Describe your background and experience relevant to being a BSSw Fellow (1000 - 1500 characters).
