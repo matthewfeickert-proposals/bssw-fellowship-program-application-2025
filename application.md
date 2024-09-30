@@ -20,7 +20,7 @@ pyhf has been used across multiple subdomains of particle physics for physics pu
 
 ```
 $ wc --chars wc.txt
-1889 wc.txt
+1498 wc.txt
 ```
 
 I am involved with multiple organizations and efforts across the scientific open source software community that are aligned with the BSSW Fellowship program's goals of promoting best practices and tools for improving productivity and software sustainability.
