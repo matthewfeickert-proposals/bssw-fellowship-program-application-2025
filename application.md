@@ -8,15 +8,15 @@
 
 ```
 $ wc --chars wc.txt
-1401 wc.txt
+1488 wc.txt
 ```
 
-My career as an experimental high energy physicist has a strong focus on building open source scientific software for the particle physics community and building scientific software ecosystems spanning domains in physics and the broader scientific open source community.
-I am the Analysis Systems focus area lead for the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) where I lead work creating next generation Pythonic data analysis tools and cyberinfrastructure designed to meet the challenges of the data intensive scientific research at planned High Luminosity Large Hadron Collider (HL-LHC) at CERN.
+My career as an experimental high energy physicist has a strong focus on building open source scientific software for the particle physics community and creating scientific software ecosystems that span across domains in physics and the broader scientific open source community.
+I am the Analysis Systems focus area lead for the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) (https://iris-hep.org/) where I lead work creating next generation Pythonic data analysis tools and cyberinfrastructure designed to meet the challenges of the data intensive scientific research at planned High Luminosity Large Hadron Collider (HL-LHC) at CERN.
 I additionally serve on the IRIS-HEP Executive Board where I work with the other board members to guide the institute towards success.
 As part of my work in IRIS-HEP, and as a member of the ATLAS experiment at CERN, I am a developer and maintainer of the statistical modeling and inference library pyhf (https://github.com/scikit-hep/pyhf).
 pyhf implements a family of statistical models used extensively in experimental particle physics and leverages automatic differentiation and hardware acceleration to improve inference speed while allowing for expressive modeling.
-pyhf has been used across multiple subdomains of particle physics for physics publications, across multiple experimental collaborations, and in particle physics phenomenology and theory.
+pyhf is a NumFOCUS Affiliated Project and has been used across multiple subdomains of particle physics in publications of LHC experiment analyses, across multiple experimental collaborations, and in particle physics phenomenology and theory.
 
 ### Describe your background and experience relevant to being a BSSw Fellow (1000 - 1500 characters).
 
@@ -52,7 +52,7 @@ $ wc --chars wc.txt
 
 As a BSSW Fellow I will develop an open source course (website) on the process of packaging scientific and AI/machine learning (ML) software and making reusable applications, and I will teach the course as a module at multiple workshops and conference tutorial sessions.
 The course will have a focus on packaging scientific Python libraries and distribution on PyPI and conda-forge indexes, but will be scoped broadly and cover packaging and distribution of C and C++ libraries on conda-forge as well.
-Beyond packaging their software, many scientists need reproducible scientific computing environments for "applications" that need to be run across multiple computing platforms --- e.g. scientific analyses, visualization tools, data transformation pipelines, and ML applications on hardware accelerator platforms.
+Beyond packaging their software, many scientists need reproducible scientific computing environments for "applications" that need to be run across multiple computing platforms &mdash; e.g. scientific analyses, visualization tools, data transformation pipelines, and ML applications on hardware accelerator platforms.
 While workflow engines and Linux containers offer a gold standard for scientific computing reproducibility, they require additional layers of training and software engineering knowledge.
 Modern multi-platform environment management tools, i.e. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for all dependencies for all software available on conda-forge and PyPI while still providing a high level interface well suited for scientists.
 The course will cover using these tools to create reproducible software environments for AI/ML applications including all CUDA dependencies, which is becoming a more relevant issue as AI/ML becomes a standard part of modern science.
