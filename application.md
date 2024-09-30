@@ -88,7 +88,11 @@ NOTE: Revise as this is not clear what the **broader** community impact is.
 Specify all that apply.
 See https://bssw.io for a list of focus areas and subtopics (e.g., Focus Area: Planning; Subtopic: Requirements).
 
+* Focus Area: Planning; Subtopic: Software Engineering
 * Focus Area: Planning; Subtopic: Software Sustainability
+* Focus Area: Development; Subtopic: Configuration and Builds
+* Focus Area: Development; Subtopic: Release and Deployment
 * Focus Area: Performance; Subtopic: High-Performance Computing (HPC)
-* Focus Area: Performance; Subtopic: Big Data
 * Focus Area: Reliability; Subtopic: Reproducibility
+* Focus Area: Skills; Subtopic: Online Learning
+* Focus Area: Skills; Subtopic: In-Person Learning
