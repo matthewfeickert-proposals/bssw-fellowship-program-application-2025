@@ -41,14 +41,14 @@ $ wc --chars wc.txt
 2159 wc.txt
 ```
 
-As a BSSW Fellow I will develop an open source course (website) on the process of packaging scientific and AI/ML software and making reusable applications, and I will teach the course as a module at multiple workshops and conference tutorial sessions.
+As a BSSW Fellow I will develop an open source course (website) on the process of packaging scientific and AI/machine learning (ML) software and making reusable applications, and I will teach the course as a module at multiple workshops and conference tutorial sessions.
 The course will have a focus on packaging scientific Python libraries and distribution on PyPI and conda-forge indexes, but will be scoped broadly and cover packaging and distribution of C and C++ libraries on conda-forge as well.
-While packaging scientific software libraries is critical, the reality is that many scientists need reproducible scientific computing environments around "applications" across multiple computing platforms --- e.g. scientific analyses, custom visualization tools, data transformation pipelines, and machine learning applications on hardware accelerator platforms.
+Beyond packaging their software, many scientists need reproducible scientific computing environments for "applications" that need to be run across multiple computing platforms --- e.g. scientific analyses, visualization tools, data transformation pipelines, and ML applications on hardware accelerator platforms.
 While workflow engines and Linux containers offer a gold standard for scientific computing reproducibility, they require additional layers of training and software engineering knowledge.
-Modern multi-platform environment management tools, i.e. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for all dependencies down to the compiler for all software available on conda-forge and PyPI while still providing a high level interface well suited for scientists.
-The course will focus on using these tools to create reproducible software environments for machine learning applications including all CUDA dependencies, which is becoming a more relevant issue as AI/ML becomes a standard part of modern science.
+Modern multi-platform environment management tools, i.e. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for all dependencies for all software available on conda-forge and PyPI while still providing a high level interface well suited for scientists.
+The course will cover using these tools to create reproducible software environments for AI/ML applications including all CUDA dependencies, which is becoming a more relevant issue as AI/ML becomes a standard part of modern science.
 I will also create a workshop to teach the content of the course to scientists.
-The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a call for applications for workshop participants, whose travel will be supported by the BSSW Fellow award.
+The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a national call for applications for workshop participants, whose travel will be supported by the BSSW Fellow award.
 This course will also be submitted as a proposal for a tutorial at the 2025 SciPy conference, and will be recommended as a module for URSSI workshops in 2025.
 
 ---
