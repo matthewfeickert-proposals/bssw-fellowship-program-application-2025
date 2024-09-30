@@ -38,7 +38,7 @@ I have also lectured at the US Research Software Sustainability Institute summer
 
 ```
 $ wc --chars wc.txt
-2159 wc.txt
+1991 wc.txt
 ```
 
 As a BSSW Fellow I will develop an open source course (website) on the process of packaging scientific and AI/machine learning (ML) software and making reusable applications, and I will teach the course as a module at multiple workshops and conference tutorial sessions.
@@ -48,7 +48,7 @@ While workflow engines and Linux containers offer a gold standard for scientific
 Modern multi-platform environment management tools, i.e. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for all dependencies for all software available on conda-forge and PyPI while still providing a high level interface well suited for scientists.
 The course will cover using these tools to create reproducible software environments for AI/ML applications including all CUDA dependencies, which is becoming a more relevant issue as AI/ML becomes a standard part of modern science.
 I will also create a workshop to teach the content of the course to scientists.
-The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a national call for applications for workshop participants, whose travel will be supported by the BSSW Fellow award.
+The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a national call for applications for workshop participants, whose travel will be supported by the BSSW Fellow award funds.
 This course will also be submitted as a proposal for a tutorial at the 2025 SciPy conference, and will be recommended as a module for URSSI workshops in 2025.
 
 ---
