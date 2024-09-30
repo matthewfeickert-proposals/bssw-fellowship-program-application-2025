@@ -23,14 +23,14 @@ $ wc --chars wc.txt
 1889 wc.txt
 ```
 
-I am involved with multiple organizations and efforts across the scientific open source software community that are aligned with the BSSW Fellowship program's goals of promoting the best practices and tools for improving productivity and software sustainability.
-I serve as an associate editor for the Journal of Open Source Software (JOSS) (https://joss.theoj.org) in the scientific tracks of Physics and Engineering and Data Science, Artificial Intelligence, and Machine Learning.
-JOSS improves research software through peer review and also improves software scholarly credit and citation through producing DOIs for not only the paper but also a long term archive of the software.
-I also serve on the organizing committee for the international Scientific Computing with Python conference (SciPy), where I work to bring the broader scientific Python community together to share research across scientific domains and organize community efforts.
-In my role as a physicist in the ATLAS collaboration I also serve as the ATLAS experiment's analysis preservation contact where I both develop and teach methods of analysis and software preservation for the purposes of efficient analysis reuse under new physics models and new data.
-This work has resulted in my organizing and teaching multiple workshops for ATLAS on best practices for software development and efficient software sustainability.
-Similarly, in my leadership roles in IRIS-HEP I have both organized and taught at multiple training events for scientific analysis tooling, and also mentored more than ten IRIS-HEP Fellows to invest in the development and career paths of early career scientists with an interest in scientific software development.
-I have also lectured at the US Research Software Sustainability Institute summer school on Research Software and Open Science on packaging and distribution of scientific software.
+I am involved with multiple organizations and efforts across the scientific open source software community that are aligned with the BSSW Fellowship program's goals of promoting best practices and tools for improving productivity and software sustainability.
+I serve as an associate editor for the Journal of Open Source Software (JOSS) (https://joss.theoj.org) in the scientific tracks of Physics and Engineering and Data Science, AI, and Machine Learning.
+JOSS improves research software through peer review and also creates opportunities to receive scholarly credit for scientific software development.
+I also serve on the organizing committee for the international SciPy conference, where I work to bring the broader scientific Python community together to share research across scientific domains and organize community efforts.
+In my role as a physicist in the ATLAS collaboration I also serve as the analysis preservation contact where I develop and teach methods of analysis and software preservation.
+I have organized and taught multiple workshops for ATLAS on best practices for software development and efficient software sustainability.
+Similarly, in my leadership roles in IRIS-HEP I have both organized and taught multiple training events for scientific analysis tooling, and also mentored more than ten early career IRIS-HEP Fellows.
+I have also lectured at the US Research Software Sustainability Institute summer school on Research Software and Open Science on software packaging.
 
 ## Proposed work and impact
 
