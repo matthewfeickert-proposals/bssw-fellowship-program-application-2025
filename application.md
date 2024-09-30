@@ -66,7 +66,7 @@ This course will also be submitted as a proposal for a tutorial at the 2025 SciP
 
 ```
 $ wc --chars wc.txt
-1487 wc.txt
+1483 wc.txt
 ```
 
 Reproducible software environments are critical not only for reproducibility of results, but, arguably more importantly, for practically sharing complex scientific environments with many dependencies for scientists to work collaboratively.
@@ -75,7 +75,7 @@ It is without exaggeration that today researchers can spend hours building bespo
 Providing researchers with not only a best practice workflow for lock-file-based reproducible software environments, but also the tools to immediately implement them across multiple platforms will scale the human time savings across science significantly as researchers adopt these methods in their research groups.
 It will also increase computational savings by avoiding running of scientific workflows with improperly defined environments that could alter results, fail to reproduce key findings, or result in errors and crashes.
 As GPU based workflows are notoriously difficult for sharing their exact environment specifications, this will provide a huge reproducibility benefit.
-Additionally, I will share the course widely and encourage other scientists to use adopt it in their own research and teaching.
+Additionally, I will share the course widely and encourage other scientists to adopt it in their own research and teaching.
 
 ### What broader community impact do you foresee from your efforts? (1000 - 1500 characters).
 
