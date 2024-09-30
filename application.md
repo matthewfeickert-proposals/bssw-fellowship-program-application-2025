@@ -51,14 +51,6 @@ I will also create a workshop to teach the content of the course to scientists.
 The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a national call for applications for workshop participants, whose travel will be supported by the BSSW Fellow award funds.
 This course will also be submitted as a proposal for a tutorial at the 2025 SciPy conference, and will be recommended as a module for URSSI workshops in 2025.
 
----
-
-* Workshops on packaging and distribution of scientific software, using conda-forge.
-Also using pixi for cross platform software environment reproducibility allowing for scientific applications to be shared easily.
-* Add a focus on AI/ML applications benefitting from GPU.
-* Write this all as open website training material with examples and teach the workshops using the websites.
-* Propose a tutorial at SciPy 2025.
-
 ### What technical impact do you foresee from your efforts? (1000 - 1500 characters).
 
 ```
