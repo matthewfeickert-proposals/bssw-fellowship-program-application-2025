@@ -27,7 +27,7 @@ $ wc --chars wc.txt
 1501 wc.txt
 ```
 
-I am involved with multiple organizations and efforts across the scientific open source software community that are aligned with the BSSW Fellowship program's goals of promoting best practices and tools for improving productivity and software sustainability.
+I am involved with multiple organizations and efforts across the scientific open source software community that are aligned with the BSSw Fellowship program's goals of promoting best practices and tools for improving productivity and software sustainability.
 I serve as an associate editor for the Journal of Open Source Software (JOSS) (https://joss.theoj.org) in the scientific tracks of Physics and Engineering and Data Science, AI, and Machine Learning.
 JOSS improves research software through peer review and also creates pathways to receive scholarly credit for scientific software development.
 I also serve on the organizing committee for the international SciPy conference, where I work to bring the broader scientific Python community together to share research across scientific domains and organize community efforts.
@@ -50,14 +50,14 @@ $ wc --chars wc.txt
 1991 wc.txt
 ```
 
-As a BSSW Fellow I will develop an open source course (website) on the process of packaging scientific and AI/machine learning (ML) software and making reusable applications, and I will teach the course as a module at multiple workshops and conference tutorial sessions.
+As a BSSw Fellow I will develop an open source course (website) on the process of packaging scientific and AI/machine learning (ML) software and making reusable applications, and I will teach the course as a module at multiple workshops and conference tutorial sessions.
 The course will have a focus on packaging scientific Python libraries and distribution on PyPI and conda-forge indexes, but will be scoped broadly and cover packaging and distribution of C and C++ libraries on conda-forge as well.
 Beyond packaging their software, many scientists need reproducible scientific computing environments for "applications" that need to be run across multiple computing platforms &mdash; e.g. scientific analyses, visualization tools, data transformation pipelines, and ML applications on hardware accelerator platforms.
 While workflow engines and Linux containers offer a gold standard for scientific computing reproducibility, they require additional layers of training and software engineering knowledge.
 Modern multi-platform environment management tools, i.e. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for all dependencies for all software available on conda-forge and PyPI while still providing a high level interface well suited for scientists.
 The course will cover using these tools to create reproducible software environments for AI/ML applications including all CUDA dependencies, which is becoming a more relevant issue as AI/ML becomes a standard part of modern science.
 I will also create a workshop to teach the content of the course to scientists.
-The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a national call for applications for workshop participants, whose travel will be supported by the BSSW Fellow award funds.
+The workshop will be incubated at the University of Wisconsin-Madison Data Science Hub, and will solicit a national call for applications for workshop participants, whose travel will be supported by the BSSw Fellow award funds.
 This course will also be submitted as a proposal for a tutorial at the 2025 SciPy conference, and will be recommended as a module for URSSI workshops in 2025.
 
 ### What technical impact do you foresee from your efforts? (1000 - 1500 characters).
