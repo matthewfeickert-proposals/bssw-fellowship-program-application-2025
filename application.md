@@ -66,15 +66,16 @@ This course will also be submitted as a proposal for a tutorial at the 2025 SciP
 
 ```
 $ wc --chars wc.txt
-1297 wc.txt
+1487 wc.txt
 ```
 
 Reproducible software environments are critical not only for reproducibility of results, but, arguably more importantly, for practically sharing complex scientific environments with many dependencies for scientists to work collaboratively.
-The open source website and course and workshop series together will practically teach researchers how to make their software reusable and their exact software environments easily shareable.
-It is without exaggeration that today researchers can spend hours building bespoke software environments for their work that are complex enough that they require great effort to rebuild even on the same machines.
-Providing researchers with not only a best practice workflow for lock file based reproducible software environments but also the tools to immediately implement them across multiple platforms will scale the human time savings across science significantly as researchers adopt these methods across their research groups.
-It will also increase computational savings by avoiding running of scientific workflows with improperly defined environments that could alter results or fail to reproduce key findings.
-As GPU based workflows are notoriously difficult to share the exact environment specifications of, this will provide a huge reproducibility benefit.
+The open source website, course, and workshop series together will practically teach researchers how to make their software reusable and their exact software environments easily and immediately shareable.
+It is without exaggeration that today researchers can spend hours building bespoke software environments for their work that have complex enough dependency trees that they require great effort to rebuild even on the same machines.
+Providing researchers with not only a best practice workflow for lock-file-based reproducible software environments, but also the tools to immediately implement them across multiple platforms will scale the human time savings across science significantly as researchers adopt these methods in their research groups.
+It will also increase computational savings by avoiding running of scientific workflows with improperly defined environments that could alter results, fail to reproduce key findings, or result in errors and crashes.
+As GPU based workflows are notoriously difficult for sharing their exact environment specifications, this will provide a huge reproducibility benefit.
+Additionally, I will share the course widely and encourage other scientists to use adopt it in their own research and teaching.
 
 ### What broader community impact do you foresee from your efforts? (1000 - 1500 characters).
 
