@@ -4,6 +4,8 @@
 
 ### Describe your work relevant to scientific software (1000 - 1500 characters).
 
+> Include your background in scientific software products, and what "hands-on" experience you have had that would make you a credible expert in some aspect of scientific software.
+
 ```
 $ wc --chars wc.txt
 1401 wc.txt
@@ -17,6 +19,8 @@ pyhf implements a family of statistical models used extensively in experimental 
 pyhf has been used across multiple subdomains of particle physics for physics publications, across multiple experimental collaborations, and in particle physics phenomenology and theory.
 
 ### Describe your background and experience relevant to being a BSSw Fellow (1000 - 1500 characters).
+
+> Include evidence that you could be an effective advocate for better scientific software, reaching out to others to convey what you know as an expert.
 
 ```
 $ wc --chars wc.txt
@@ -34,7 +38,12 @@ I have also lectured at the US Research Software Sustainability Institute summer
 
 ## Proposed work and impact
 
+The fellowship period of performance will begin March 1, 2025 and end March 31, 2026. Proposed activities should result in one or more well-documented, publicly available artifacts.
+
 ### What would you do as a BSSw Fellow? (1500 - 2000 characters).
+
+> The proposed work should be relevant to scientific software and can benefit the Department of Energy (DOE) and/or National Science Foundation (NSF), and the broader high-performance computing (HPC) and computational science and engineering (CSE) communities.
+> Work should be well-scoped with clear deliverables and likely to be accomplished within the period of performance.
 
 ```
 $ wc --chars wc.txt
@@ -53,6 +62,8 @@ This course will also be submitted as a proposal for a tutorial at the 2025 SciP
 
 ### What technical impact do you foresee from your efforts? (1000 - 1500 characters).
 
+> The proposed work should have broad technical impact that spans beyond a single community/event and result in one or more artifacts that are available beyond the fellowship period of performance.
+
 ```
 $ wc --chars wc.txt
 1297 wc.txt
@@ -66,6 +77,8 @@ It will also increase computational savings by avoiding running of scientific wo
 As GPU based workflows are notoriously difficult to share the exact environment specifications of, this will provide a huge reproducibility benefit.
 
 ### What broader community impact do you foresee from your efforts? (1000 - 1500 characters).
+
+> We value work that has broader community impact: the potential to benefit society and contribute to the achievement of specific, desired societal outcomes, including but not limited to: inclusion, STEM education, public engagement.
 
 ```
 $ wc --chars wc.txt
