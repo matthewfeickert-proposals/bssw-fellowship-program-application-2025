@@ -83,16 +83,17 @@ Additionally, I will share the course widely and encourage other scientists to a
 
 ```
 $ wc --chars wc.txt
-1391 wc.txt
+1495 wc.txt
 ```
 
 Most scientists do not receive a formal education in software development and engineering and the associated best practices.
-However, they are generally interested to learn and apply these skills if shown the positive impacts on their research.
+However, these skills are vital to tackle the complex scientific questions of today.
 Through the course and workshops I will be able to train early career researchers (university and graduate students, and junior postdocs) across multiple scientific domains on how to improve the maintainability of their software, reproducibility of their work, and ultimately the quality of their science.
 The impact of investing in the technical education of early career researchers will grow over time as they bring what they have learned to bear in their research and spread their knowledge in new collaborations.
 All the course and workshop content, and the website source code, will be open source under a permissive license, making it easy for other researchers to use the course material in their own lectures and workshops.
+Access to high quality scientific computing educational resources is an equity issue and open sourcing that knowledge makes it more accessible.
 The course will also not be static, but will be updated as new improvements and recommendations are made available.
-I will encourage sharing of the material and through having the workshops target a wide range of scientific domains I will ensure that this knowledge spreads and helps multiple scientific communities develop better workflows and practices around reproducible and sustainable software development.
+I will encourage sharing of the material and by having the workshops target a wide range of scientific domains I will ensure that this knowledge spreads and helps multiple scientific communities develop better workflows and practices around reproducible and sustainable software development.
 
 ### Which BSSw focus areas and subtopics apply to your proposed work? (500 characters).
 Specify all that apply.
