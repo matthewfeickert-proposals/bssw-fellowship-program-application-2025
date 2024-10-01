@@ -31,7 +31,7 @@ I am involved with multiple organizations and efforts across the scientific open
 I serve as an associate editor for the Journal of Open Source Software (JOSS) (https://joss.theoj.org) in the scientific tracks of Physics and Engineering and Data Science, AI, and Machine Learning.
 JOSS improves research software through peer review and also creates pathways to receive scholarly credit for scientific software development.
 I also serve on the organizing committee for the international SciPy conference, where I work to bring the broader scientific Python community together to share research across scientific domains and organize community efforts.
-In my role as a physicist in the ATLAS collaboration I also serve as the Analysis Preservation contact where I develop and teach methods of analysis and software preservation.
+In my role as a physicist in the ATLAS collaboration I also serve as the Analysis Preservation Contact where I develop and teach methods of analysis and software preservation.
 I have organized and taught multiple workshops for ATLAS on best practices for software development and efficient software sustainability.
 Similarly, in my leadership roles in IRIS-HEP I have both organized and taught multiple training events for scientific analysis tooling, and also mentored more than ten early career IRIS-HEP Fellows.
 I have also lectured at the US Research Software Sustainability Institute (URSSI) summer school on Research Software and Open Science on software packaging.
