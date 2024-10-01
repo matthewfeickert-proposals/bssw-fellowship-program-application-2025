@@ -8,7 +8,7 @@
 
 ```
 $ wc --chars wc.txt
-1488 wc.txt
+1492 wc.txt
 ```
 
 My career as an experimental high energy physicist has a strong focus on building open source scientific software for the particle physics community and creating scientific software ecosystems that span across domains in physics and the broader scientific open source community.
