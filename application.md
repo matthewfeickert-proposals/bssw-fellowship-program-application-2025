@@ -51,7 +51,7 @@ $ wc --chars wc.txt
 ```
 
 As a BSSw Fellow I will develop an open source course (website) on the process of packaging scientific and AI/machine learning (ML) software and making reusable applications; I will teach the course as a module at multiple workshops and conference tutorial sessions.
-The course will have a focus on packaging scientific Python libraries and distribution on package indexes (i.e. PyPI and conda-forge), but will be scoped broadly and cover packaging and distribution of C and C++ libraries on conda-forge as well.
+The course will have a focus on packaging scientific Python libraries and distribution on package indexes (e.g. PyPI and conda-forge), but will be scoped broadly and cover packaging and distribution of C and C++ libraries on conda-forge as well.
 Beyond packaging their software, scientists need reproducible computing environments for "applications" that need to be run across multiple computing platforms &mdash; e.g. scientific analyses, visualization tools, data transformation pipelines, and ML applications on hardware accelerator platforms.
 While workflow engines and Linux containers offer a gold standard for scientific computing reproducibility, they require additional layers of training and software engineering knowledge.
 Modern multi-platform environment management tools, e.g. pixi (https://pixi.sh/), provide automatic multi-platform hash-level lock file support for all dependencies of software on Python or Conda package indexes while still providing a high level interface well suited for scientists.
